@@ -1,11 +1,17 @@
 
 <!-- .slide: data-menu-title="Title page" data-background-image="images/TG-on-white.png" data-background-opacity="1.0" -->
-## Inspiratiesessie 2 juni 2020
-## 'Hoe toegankelijk is uw gemeente?'
+### 'Hoe toegankelijk is uw gemeente?'
+#### Inspiratiesessie 2 juni 2020
 
 Note:
-  Webserver presentation, so start server in slides directory
-  Slides reside in repository in Projects folder:
+  Initial setup reveal presentation
+    Slides should reside in GithHub repository and in local Projects folder
+    Create Github repository and clone the repository to the Projects folder
+    Copy all files excluding the .git folder from another reveal setup into this folder
+    Edit the slides.md in VsCodium to make the reveal presentation
+    State all changes and commit them to the GitHub folder
+    ###
+  Reveal.js is a webserver presentation, so start server in slides directory
   MacOS
     Start server in terminal window (i.e. in slides directory)
       python -m SimpleHTTPServer (Python2)
@@ -31,7 +37,9 @@ Note:
     -  Change the Layout to Landscape.
     -  Change the Margins to None.
     -  Enable the Background graphics option.
-    -  Click Save.
+    -  Click Save
+
+    
 
 ---
 
@@ -53,9 +61,9 @@ Voor 2016:
 - PCG Website Toegankelijk Groningen
 
 In 2016:                                       <!-- .element: class="fragment" data-fragment-index="1" -->
-- Gehandicaptenadviesraad Groningen afgeschaft <!-- .element: class="fragment" data-fragment-index="1" -->
-- Ratificatie VN-Verdrag Handicap              <!-- .element: class="fragment" data-fragment-index="1" -->
-- Werving Keurmeesters: vanaf december         <!-- .element: class="fragment" data-fragment-index="1" -->
+- Gehandicaptenadviesraad Groningen opgeheven  <!-- .element: class="fragment" data-fragment-index="1" -->
+- Juni: Ratificatie VN-Verdrag Handicap        <!-- .element: class="fragment" data-fragment-index="1" -->
+- December: start werving 'Keurmeesters'         <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 - Historie:
@@ -85,19 +93,19 @@ Onze 'bloedgroepen' zijn:
 - burgers met een psychische handicap.
 
 Note:
-- Bij VG reken ik ook Dementie
+- Bij VG reken ik ook hersenaandoeningen zoals Dementie
 
 --
 
 ## Handicap 'criteria'
 
-Iedereen met 'kan niet schelen welke afstand tot de mainstream-maatschappij' die binnen de handicap-criteria valt, hoort erbij.
+Iedereen met 'kan niet schelen welke afstand tot de mainstream-maatschappij' die binnen deze handicap-criteria valt, hoort erbij.
 
 Criteria zijn in normaal Nederlands:
 - Het gaat niet over.
 - Je hebt er elke dag last van.
-- Het betreft meerdere leefterreinen: geen ontkomen aan.
-- Het levert voortdurend participatie-problemen op.
+- Betreft meerdere leefterreinen: geen ontkomen aan.
+- Levert voortdurend participatie-problemen op.
 
 --
 
@@ -119,7 +127,7 @@ Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 **Sociaal model** i.t.t. Individueel/medisch model
 
 Note:
-- Sociaal model: niet benaderen van uit medisch/individueel perspectief
+- Sociaal model: niet benaderen vanuit medisch/individueel perspectief
   maar hoe we samen dingen kunnen oplossen
 
 --
@@ -146,29 +154,30 @@ Note:
 <!-- .slide: data-background-image="images/Samenwerken.png" data-background-opacity="0.3" -->
 ## Werkwijze
 
-- Overleg gemeente: 2-wekelijks
+- Overleg gemeente: 2-wekelijks **digitaal**
 - Meedenken in plaats van eisen
 - Scannen communicatie gemeente
-- Overleg projectleiders
+- Overleg projectleiders **digitaal**
 - Wandeling wethouder Toegankelijkheid
 - Deelname Let\'s Gro
 
 Note:
-- Overleg in de hal: zichtbaar zijn!
+- Overleg in de hal: zichtbaar zijn! Echter Corona...
 - Nog lange weg naar natuurlijke consultatie
-- Geert & Forum/Nieuwe markr: met zijn vinger over de tekening
+- Geert & Forum/Nieuwe markt: met zijn vinger over de tekening
 
 --
 
 ## Output
 
 - Toegankelijke verkiezingen
-- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad, ..
+- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad, Iederz, ..
 - Toegankelijkheid alle festivals
-- Live ondertiteling Raadsvergaderingen 1-1-2020
+- Ondertiteling Raadsvergaderingen 1-1-2020
 - Revitalisering Stadhuis
 - Gronings Sportakkoord, Woonvisie, ..
-- RTV-Noord ondertiteling
+- Groninger Forum
+- Waaier Toegankelijkheid
 
 Note:
 - Verkiezingen: incl. Dovengemeenschap!
@@ -177,6 +186,8 @@ Note:
 - Afvalscheiding, inclusief Harmonisatie
 - Verstrekkingsduur voorzieningen
 - Fietsbeleid
+- Pendelbus
+- Dudok aan het diep
 - Overleg WIJ-Stichting: Doven & NL Gebarentaal
   Is de uivoerder van WMO in Groningen
 - Documenten:
@@ -186,6 +197,7 @@ Note:
     - Waaier Toegankelijkheid HoreCa
 - Herhaal: Belangen kunnen verschillen of tegengesteld zijn, bijv. Shared Space
 - Revitalisering Stadhuis: architect (n)(r)oemde eerste samenwerking met TG werkgroep
+- RTV-Noord ondertiteling
 
 ---
 
