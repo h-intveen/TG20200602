@@ -5,26 +5,13 @@
 
 Note:
   Initial setup reveal presentation
-    Slides should reside in GithHub repository and in local Projects folder
-    Create Github repository and clone the repository to the Projects folder
+    Create Github repository and 'git clone' repository to the local Projects folder
     Copy all files excluding the .git folder from another reveal setup into this folder
-    Edit the slides.md in VsCodium to make the reveal presentation
-    State all changes and commit them to the GitHub folder
+    Edit the slides.md in VsCodium to make the reveal.js presentation
+    Stage all changes and commit them to GitHub
     ###
   Reveal.js is a webserver presentation, so start server in slides directory
-  MacOS
-    Start server in terminal window (i.e. in slides directory)
-      python -m SimpleHTTPServer (Python2)
-      python3 -m http.server 9000 (Python3)
-    View by browsing to:
-      http://localhost:8000 (Python2)
-      http://localhost:9000 (Python3)
-  Windows:
-    Install extension: HTTP Server / HTML Preview
-    Start server in terminal window
-      Press <Fn> & F1
-      Type: Simple HTTP server: Create HTTP Server <enter>
-      Choose where it should run
+     View live website via extension "Live server": Start "Go live" in bottom bar.
   Hidden features:
   - Speaker notes window : hit »S« on your keyboard.
   - Pause presentation :  hit »B« or ».«
@@ -38,8 +25,6 @@ Note:
     -  Change the Margins to None.
     -  Enable the Background graphics option.
     -  Click Save
-
-    
 
 ---
 
