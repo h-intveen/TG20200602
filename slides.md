@@ -152,7 +152,7 @@ Note:
 - Informeren raadsleden, Inspreken
 
 Note:
-- Nog lange weg naar natuurlijke consultatie
+- Nog lange weg naar natuurlijke consultatie - Loket Bouwen & Wonen
 - Geert & Forum/Nieuwe markt: met zijn vinger over de tekening
 - Nieuwe contactpersoon met als 1e opdracht Tussenstand schrijven...
 - Zichtbaar zijn!
