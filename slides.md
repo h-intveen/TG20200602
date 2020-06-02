@@ -175,6 +175,7 @@ Note:
 - Waaier Toegankelijkheid, Tussenstand Actieplan
 
 Note:
+- 1,5 meter samenleving vanaf gisteren
 - Verkiezingen: incl. Dovengemeenschap!
 - Grunn Gras
 - MiVa Parkeerbeleid
