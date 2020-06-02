@@ -4,15 +4,16 @@
 #### Inspiratiesessie 2 juni 2020
 
 Note:
-  Initial setup reveal presentation
+- Total ime 14:25 - 14:45; Part1 = 14 min.; part 2 = 6 min.
+- Initial setup reveal.js presentation
     Create Github repository and 'git clone' repository to the local Projects folder
     Copy all files excluding the .git folder from another reveal setup into this folder
     Edit the slides.md in VsCodium to make the reveal.js presentation
     Stage all changes and commit them to GitHub
     ###
-  Reveal.js is a webserver presentation, so start server in slides directory
+- Reveal.js is a webserver presentation, so start server in slides directory
      View live website via extension "Live server": Start "Go live" in bottom bar.
-  Hidden features:
+- Hidden features:
   - Speaker notes window : hit »S« on your keyboard.
   - Pause presentation :  hit »B« or ».«
   - Show menu: hit »M«
@@ -61,7 +62,6 @@ Note:
   - Contacten Klaas van der Berg in 2016
   - Jan Martini vanaf december 2016 werving via Link050: vrijwilligersbank : verzekerd etc.
   - Vanaf eind 2017 2 aanjagers Toegankelijkheid: Jan Martini, Jaco Kalfsbeek
-- Planning Toegankelijk Groningen: 20 minuten, dus tot 15:30
 
 --
 
@@ -145,23 +145,30 @@ Note:
 - Overleg projectleiders **digitaal**
 - Wandeling wethouder Toegankelijkheid
 - Deelname Let\'s Gro
+- Tussenstand actieplan Toegankelijke Stad
+- Bijwonen raads- & Commissievergaderingen
+- Inspreken
 
 Note:
-- Overleg in de hal: zichtbaar zijn! Echter Corona...
 - Nog lange weg naar natuurlijke consultatie
 - Geert & Forum/Nieuwe markt: met zijn vinger over de tekening
+- Nieuwe contactpersoon met als 1e opdracht Tussenstand schrijven
+- Zichtbaar zijn!
+  - Overleg in de hal
+  - Bijwonen / inspreken
+  - Echter Corona...
 
 --
 
 ## Output
 
 - Toegankelijke verkiezingen
-- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad, Iederz, ..
-- Toegankelijkheid alle festivals
-- Ondertiteling Raadsvergaderingen 1-1-2020
+- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, Iederz, Toegankelijkheid alle festivals
+- Ondertiteling Raadsvergaderingen 
 - Revitalisering Stadhuis
 - Gronings Sportakkoord, Woonvisie, ..
 - Groninger Forum
+- Herinrichting binnenstad-West
 - Waaier Toegankelijkheid
 
 Note:
