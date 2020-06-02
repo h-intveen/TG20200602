@@ -10,6 +10,7 @@ Note:
     Copy all files excluding the .git folder from another reveal setup into this folder
     Edit the slides.md in VsCodium to make the reveal.js presentation
     Stage all changes and commit them to GitHub
+    Push changes to Github
     ###
 - Reveal.js is a webserver presentation, so start server in slides directory
      View live website via extension "Live server": Start "Go live" in bottom bar.
