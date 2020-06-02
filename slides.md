@@ -184,7 +184,7 @@ Note:
 - Pendelbus
 - Dudok aan het diep
 - Overleg WIJ-Stichting: Doven & NL Gebarentaal
-  Is de uivoerder van WMO in Groningen
+  Is de uitvoerder van WMO in Groningen
 - Documenten:
   - Brochures
     - Handreiking Toegankelijkheid 2017
