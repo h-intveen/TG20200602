@@ -148,7 +148,7 @@ Note:
 - Deelname Let\'s Gro
 - Tussenstand actieplan Toegankelijke Stad
 - Bijwonen raads- & Commissievergaderingen
-- Inspreken
+- Informeren raadsleden, Inspreken
 
 Note:
 - Nog lange weg naar natuurlijke consultatie
@@ -158,18 +158,19 @@ Note:
   - Overleg in de hal
   - Bijwonen / inspreken
   - Echter Corona...
+- Raadsleden Toegankelijkheid: Wim Koks, 100% Gn, Jeffry van Hoorn
 
 --
 
 ## Output
 
 - Toegankelijke verkiezingen
-- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, Iederz, Toegankelijkheid alle festivals
+- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, Iederz, Toegankelijkheid alle festivals, ...
 - Ondertiteling Raadsvergaderingen 
 - Revitalisering Stadhuis, 
 - Gronings Sportakkoord, Woonvisie, ..
 - Groninger Forum
-- Herinrichting binnenstad-West, St Jansstraat, Kattenbrug
+- Herinrichting BS-West, St Jansstraat, Kattenbrug
 - Waaier Toegankelijkheid
 
 Note:
