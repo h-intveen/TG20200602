@@ -171,7 +171,7 @@ Note:
 - Gronings Sportakkoord, Woonvisie, ..
 - Groninger Forum
 - Herinrichting BS-West, St Jansstraat, Kattenbrug
-- Waaier Toegankelijkheid
+- Waaier Toegankelijkheid, Tussenstand Actieplan
 
 Note:
 - Verkiezingen: incl. Dovengemeenschap!
