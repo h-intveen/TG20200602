@@ -48,16 +48,17 @@ Voor 2016:
 
 In 2016:                                       <!-- .element: class="fragment" data-fragment-index="1" -->
 - Gehandicaptenadviesraad Groningen opgeheven  <!-- .element: class="fragment" data-fragment-index="1" -->
+- Oprichting Stad Adviseert                    <!-- .element: class="fragment" data-fragment-index="1" -->
 - Juni: Ratificatie VN-Verdrag Handicap        <!-- .element: class="fragment" data-fragment-index="1" -->
-- December: start werving 'Keurmeesters'         <!-- .element: class="fragment" data-fragment-index="1" -->
+- December: start werving 'Keurmeesters'       <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 - Historie:
   - Voorloper: Gehandicapten Adviesraad - was veelal laatste schakel
-  - In Groningen afgeschaft per 1-1-2016
-  - PCG Website Toegankelijk Groningen
-  - Website Filosofie, voor mobi/doof/blind
-  - Ontstaan vanuit PCG Keurmeesters
+  - PCG Website Toegankelijk Groningen - PCG Keurmeesters
+  - Website Filosofie: voor mobi/doof/blind, bepaal zelf wat je er mee kan
+  - Gehandicaptenadviesraad Groningen afgeschaft per 1-1-2016
+  - StadAdviseert in juni 216 opgericht - zeer magere ervaringsdeskundigheid
   - Nu adviseurs Toegankelijkheid
   - Contacten Klaas van der Berg in 2016
   - Jan Martini vanaf december 2016 werving via Link050: vrijwilligersbank : verzekerd etc.
@@ -152,7 +153,7 @@ Note:
 Note:
 - Nog lange weg naar natuurlijke consultatie
 - Geert & Forum/Nieuwe markt: met zijn vinger over de tekening
-- Nieuwe contactpersoon met als 1e opdracht Tussenstand schrijven
+- Nieuwe contactpersoon met als 1e opdracht Tussenstand schrijven...
 - Zichtbaar zijn!
   - Overleg in de hal
   - Bijwonen / inspreken
@@ -165,10 +166,10 @@ Note:
 - Toegankelijke verkiezingen
 - Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, Iederz, Toegankelijkheid alle festivals
 - Ondertiteling Raadsvergaderingen 
-- Revitalisering Stadhuis
+- Revitalisering Stadhuis, 
 - Gronings Sportakkoord, Woonvisie, ..
 - Groninger Forum
-- Herinrichting binnenstad-West
+- Herinrichting binnenstad-West, St Jansstraat, Kattenbrug
 - Waaier Toegankelijkheid
 
 Note:
